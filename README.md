@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Nicholas Valverde
 
-<!--
-**nick-valverde5/nick-valverde5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst with hands-on projects in SQL, Python, Tableau, and Excel.
 
-Here are some ideas to get you started:
+## Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Customer Churn Analysis
+Analyzed customer churn patterns using SQL to identify high-risk customer groups and business retention opportunities.
+
+### Sales Performance Dashboard
+Built a Tableau dashboard to analyze sales trends, regional performance, top products, and business growth opportunities.
+
+## Tools
+SQL | Python | Pandas | Tableau | Excel | GitHub
+
+## What I'm Looking For
+Entry-level Data Analyst roles where I can use data to solve business problems and create actionable insights.
+
+## Contact
+- GitHub: github.com/nick-valverde5
+- LinkedIn: Add your LinkedIn link here
+- Portfolio: Add Tableau Public or project links here
