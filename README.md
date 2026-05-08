@@ -1,22 +1,27 @@
 # Hi, I'm Nicholas Valverde
 
-Aspiring Data Analyst with hands-on projects in SQL, Python, Tableau, and Excel.
+I'm an aspiring data analyst building projects with SQL, Tableau, Python, and Excel.
+
+Right now, I'm focused on improving my SQL, dashboard design, and business analysis skills by creating projects that answer realistic business questions.
 
 ## Featured Projects
 
 ### Customer Churn Analysis
-Analyzed customer churn patterns using SQL to identify high-risk customer groups and business retention opportunities.
+Used SQL and Tableau to analyze which customer groups were most likely to leave and what retention opportunities a business could focus on.
 
 ### Sales Performance Dashboard
-Built a Tableau dashboard to analyze sales trends, regional performance, top products, and business growth opportunities.
+Built a Tableau dashboard to compare sales by region, product category, and time period.
 
-## Tools
-SQL | Python | Pandas | Tableau | Excel | GitHub
+## Skills I'm Practicing
+- SQL: SELECT, WHERE, GROUP BY, JOINs, CASE statements
+- Tableau: dashboards, KPI cards, filters, trend charts
+- Excel: pivot tables, basic reporting
+- Python: pandas, data cleaning, simple charts
 
-## What I'm Looking For
-Entry-level Data Analyst roles where I can use data to solve business problems and create actionable insights.
+## What I'm Working On
+I'm currently improving my portfolio by adding stronger business recommendations, screenshots, and explanations of my process.
 
 ## Contact
 - GitHub: github.com/nick-valverde5
-- LinkedIn: Add your LinkedIn link here
-- Portfolio: Add Tableau Public or project links here
+- LinkedIn: add your real LinkedIn link
+- Tableau Public: add your Tableau link
