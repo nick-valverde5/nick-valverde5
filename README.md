@@ -23,5 +23,3 @@ I'm currently improving my portfolio by adding stronger business recommendations
 
 ## Contact
 - GitHub: github.com/nick-valverde5
-- LinkedIn: add your real LinkedIn link
-- Tableau Public: add your Tableau link
